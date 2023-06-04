@@ -54,7 +54,7 @@
     
 </p>
 
-<h3 align="center" >Backend as a Service (Baas)</h3>
+<h3 align="center" >Backend as a Service (BaaS)</h3>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     
