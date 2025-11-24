@@ -23,56 +23,38 @@
 <h3 align="center" >DevOps & Cloud Tools</h3>
 <p align="center">
 
-    <!-- GitHub -->
+
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
 
-    <!-- GitLab -->
-    <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-    </a>
-
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-
-    <!-- Kubernetes -->
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-    </a>
-
-    <!-- Jenkins -->
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-    </a>
-
-    <!-- Ansible -->
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-    </a>
-
-    <!-- Terraform -->
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-    </a>
-
-
-    <!-- Nginx -->
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-
-    <!-- Prometheus -->
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-    </a>
-
-    <!-- Grafana -->
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-    </a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+</a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+</a>
 
 </p>
 
