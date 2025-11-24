@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-fahad" alt="hasan-fahad" /></a> </p> -->
 
-- 🔭 I’m currently working on **Binate Solutions Ltd. as a System Support Engineer**
+- 🔭 I’m currently working on **RedDot Digital Ltd. as a Software Engineer**
 
 - 📫 How to reach me **fahadhasan164@gmail.com**
 
